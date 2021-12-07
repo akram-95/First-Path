@@ -9,6 +9,11 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at First Path unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
+The App saves users' Primary Account information to https://parseapi.back4app.com. this information will be securely saved and will be just for app functionality used.11
+
+Link to privacy policy of Back4App used by the app.
+
+*   [Back4App](https://www.back4app.com/privacy.pdf)
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Email, social authentication.
 
@@ -16,7 +21,6 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Apple](https://www.apple.com/legal/privacy/en-ww/)
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [One Signal](https://onesignal.com/privacy_policy)
