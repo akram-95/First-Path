@@ -9,8 +9,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at First Path unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
-
-The App saves users' Primary Account information to https://parseapi.back4app.com. this information will be securely saved and will be just for app functionality used.11
+The App saves users' Primary Account information to https://www.back4app.com. this information will be securely saved and will be just for app functionality used.
 
 Link to privacy policy of Back4App used by the app.
 
