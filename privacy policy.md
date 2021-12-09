@@ -21,6 +21,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
+*   [Apple](https://www.apple.com/legal/privacy/en-ww/) (for IOS devices)
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [One Signal](https://onesignal.com/privacy_policy)
